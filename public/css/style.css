@@ -1,0 +1,16 @@
+body {
+  padding: 5px;
+  background-image: url(../images/sports.png);
+}
+
+h1{
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+h3{
+  font-family: 'Rubik', sans-serif;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
